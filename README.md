@@ -1,2 +1,2 @@
 # EDInterpreter
-EDCAN node.js interpreter
+EDCAN node.js interpreter!
